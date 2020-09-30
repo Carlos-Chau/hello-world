@@ -1,3 +1,3 @@
 # hello-world
 
-I love :coffee: :pizza: and :women:
+I love these emojis :see_no_evil: :hear_no_evil: :speak_no_evil:
